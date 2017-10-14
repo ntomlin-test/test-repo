@@ -1,2 +1,2 @@
 # test-repo
-It's a test! Shiny.
+It's a test! Shiny and chrome.
